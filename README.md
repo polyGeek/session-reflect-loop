@@ -1,6 +1,6 @@
 # The /session + /reflect Loop — Sample Kit
 
-A working sample of the session-doc workflow described in [The Conversation Is the Asset](#) <!-- TODO: article URL -->.
+A working sample of the session-doc workflow described in [The Conversation Is the Asset](https://polygeek.com/posts/the-conversation-is-the-asset.html).
 
 The premise: the most valuable output of an AI coding session isn't the code — it's the conversation. The decisions, the corrections, the reasoning. By default it all evaporates when the context window ends. This loop keeps it, in plain markdown files you own.
 
